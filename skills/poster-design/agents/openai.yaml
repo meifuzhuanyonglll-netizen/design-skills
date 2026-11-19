@@ -1,0 +1,4 @@
+interface:
+  display_name: "海报设计"
+  short_description: "设计与审查中文海报，梳理阅读顺序、版式层级和实际投放效果"
+  default_prompt: "用 $poster-design 按实际投放场景设计或审查这张海报。"
